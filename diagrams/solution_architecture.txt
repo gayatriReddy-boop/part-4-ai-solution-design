@@ -1,0 +1,11 @@
+Input Medical Images
+        ↓
+Image Preprocessing
+        ↓
+CNN Model
+        ↓
+Disease Prediction
+        ↓
+Doctor Review
+        ↓
+Final Diagnosis
